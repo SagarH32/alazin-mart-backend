@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://alazin-mart.herokuapp.com/:5000",
+  "proxy": "https://alazin-mart.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
